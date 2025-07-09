@@ -3,4 +3,4 @@ updates:
   - package-ecosystem: "npm" # or "pip", "docker", "maven", etc.
     directory: "/"           # location of manifest file
     schedule:
-      interval: "always"     # or "daily", "monthly"
+      interval: "daily"     # or "daily", "monthly"

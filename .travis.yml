@@ -5,7 +5,7 @@ jobs:
   include:
     - name: "job one"
       vm: 
-        create:
+        use:
           name: 7july_500k52_01
       script: 
         - echo "condition with job uuuu"
